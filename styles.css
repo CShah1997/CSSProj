@@ -1,0 +1,223 @@
+#mainNav
+{
+    margin-top: -7px; 
+    background-color: rgb(89, 82, 109);
+    text-align: center;
+    height: 47px;
+}
+
+.container #navbarResponsive
+{
+    display: inline-block;
+    margin-top: -20px;
+    width: 30%;
+}
+
+#navbarResponsive
+{
+    margin-left: 5%;
+}
+
+.container a
+{
+    color: white;    
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container .navbar-brand
+{
+    margin-left: 1%;
+    margin-right: 40%; 
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ul
+{
+    list-style-type: none;
+    white-space:nowrap;
+}
+
+li
+{
+    display:inline;
+    padding-left: 30px;
+    font-size: 12px;
+}
+
+body
+{
+    text-align: center;
+    overflow: hidden;
+}
+
+.copyright
+{
+    height: 47px;
+    background-color: rgb(58, 55, 66);
+}
+
+.copyright .container
+{
+    padding-top: 15px;
+    color: white;   
+    font-size: 20px;
+}
+
+.footer .container .row
+{
+    background-color: rgb(116, 116, 145);
+    width: 100%;
+    height: 20%;
+    color: white;
+    margin-top: -40px;
+}
+
+
+'][]
+.col-lg-4
+{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0.7%;
+    margin-left: 17.3%;
+    float: left;
+}
+
+.text-uppercase
+{
+    padding-top: 30px;
+}
+
+.fa
+{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    border-width: thin;
+}
+
+.fa-facebook
+{
+    padding-top: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+.fa-twitter
+{
+    padding-top: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+.fa-linkedin
+{
+    padding-top: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+.fa-dribbble
+{
+    padding-top: 10px;
+    width: 40px;
+    height: 30px;
+}
+
+header
+{
+    background-color: rgb(161, 116, 199);
+    height: 28%;
+}
+
+.page-section
+{
+    height: 46%;
+    background-color: white;
+}
+
+.masthead-avatar
+{
+    padding-top: 15px;
+    height: 100px;
+    margin-bottom: -45px; 
+}
+
+.form-control
+{
+    width: 40%;
+    border-radius: 5px; 
+    text-indent: 10px;
+}
+
+input
+{
+    height: 30px;
+}
+
+button
+{
+    margin-top: -15px;
+    border-radius: 3px;
+    float: left;
+    margin-left: 30%;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.page-section-heading
+{
+    margin-top: -10px;
+    text-transform: uppercase;
+}
+
+.text-uppercase
+{
+    text-transform: uppercase;
+}
+
+.divider-custom-line
+{
+    width: 60px;
+    height: 47px;
+    border-bottom: 5px solid black;
+    margin-top: -27%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divider-custom
+{
+    display: inline-flex;
+    margin-top: -1%;
+    margin-bottom: 10px;
+}
+
+.masthead-heading
+{
+    text-transform: uppercase;
+}
+
+.masthead-subheading
+{
+    margin-top: -7px;
+    text-transform: uppercase;
+}
+
+.fa-star
+{
+    margin-top: -100px;
+}
+
+.page-section-heading
+{
+    font-size: 32px;
+}
+
