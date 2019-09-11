@@ -75,8 +75,6 @@ body
     margin-top: -40px;
 }
 
-
-'][]
 .col-lg-4
 {
     font-size: 15px;
@@ -84,6 +82,7 @@ body
     margin-top: 0.7%;
     margin-left: 17.3%;
     float: left;
+    
 }
 
 .text-uppercase
@@ -160,7 +159,7 @@ input
 
 button
 {
-    margin-top: -15px;
+    margin-top: -19px;
     border-radius: 3px;
     float: left;
     margin-left: 30%;
